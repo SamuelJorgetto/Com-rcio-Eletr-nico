@@ -26,4 +26,5 @@ Este repositório contém instruções SQL para criar quatro tabelas: "Produtos"
 
 - Views.
 
-- Este repositório é apenas para fins de demonstração e não representa um ambiente de produção real.
+![Código SQL](https://github.com/SamuelJorgetto/Com-rcio-Eletr-nico/blob/main/Modelo%20Logico%20-%20Comercio_Eletronico.png)
+
